@@ -1,4 +1,4 @@
-![QuantumMemory-Lab cover](assets/cover.png)
+![QuantumMemory-Lab cover](QuantumMemory-Lab%20cover.png)
 
 # QuantumMemory-Lab 🧠⚛️
 
